@@ -12,7 +12,7 @@
 
 **Student Agency Operations** · **No backend. No login. Client data stays local.**
 
-[Live app](https://volta-npo.github.io/student-pod-playbook/) · [Report an issue](https://github.com/volta-npo/student-pod-playbook/issues) · [Volta](https://voltanpo.org)
+[Live app](https://volta-npo.github.io/42-student-pod-playbook/) · [Report an issue](https://github.com/volta-npo/42-student-pod-playbook/issues) · [Volta](https://voltanpo.org)
 
 </div>
 
@@ -182,7 +182,7 @@ This repo is designed to be usable as a real OSS product, not just a static demo
 ## 🛠️ Quick start
 
 ```bash
-git clone https://github.com/volta-npo/student-pod-playbook.git
+git clone https://github.com/volta-npo/42-student-pod-playbook.git
 cd 42-student-pod-playbook
 npm install
 npm test
