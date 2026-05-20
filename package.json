@@ -28,11 +28,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volta-npo/student-pod-playbook.git"
+    "url": "git+https://github.com/volta-npo/42-student-pod-playbook.git"
   },
-  "homepage": "https://volta-npo.github.io/student-pod-playbook/",
+  "homepage": "https://volta-npo.github.io/42-student-pod-playbook/",
   "bugs": {
-    "url": "https://github.com/volta-npo/student-pod-playbook/issues"
+    "url": "https://github.com/volta-npo/42-student-pod-playbook/issues"
   },
   "author": "Volta Open Source <volta.npo@gmail.com>",
   "engines": {
